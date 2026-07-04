@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "IndustryCore\\IndustryCore.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "IndustryCore.UI.Web\\IndustryCore.UI.Web.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]
